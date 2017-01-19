@@ -18,5 +18,6 @@
     "psr-4": {
       "Chunhei2008\\Validator\\": "src/"
     }
-  }
+  },
+  "minimum-stability": "0.1"
 }
