@@ -19,5 +19,5 @@
       "Chunhei2008\\Validator\\": "src/"
     }
   },
-  "minimum-stability": "0.1"
+  "minimum-stability": "dev"
 }
