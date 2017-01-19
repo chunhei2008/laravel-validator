@@ -1,0 +1,22 @@
+{
+  "name": "chunhei2008/laravel-validator",
+  "description": "laravel 按场景验证",
+  "keywords": [
+    "laravel",
+    "validate",
+    "validator",
+    "scenario"
+  ],
+  "authors": [
+    {
+      "name": "chunhei2008",
+      "email": "chunhei2008@qq.com"
+    }
+  ],
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Chunhei2008\\Validator\\": "src/"
+    }
+  }
+}
