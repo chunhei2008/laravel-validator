@@ -2,7 +2,13 @@
 
 # how to use
 
-## define a validator
+## install 
+
+```
+composer require chunhei2008/laravel-validator
+```
+
+## make your own validator
 
 ```
 
@@ -41,7 +47,7 @@ class LoginValidator extends AbstractValidator
 }
 ```
 
-## use validator in scenario
+## validate in your code
 ```
     public function index(Request $request)
     {
